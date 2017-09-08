@@ -10,7 +10,7 @@ namespace Ahoj_svete
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ahoj svete");
+            Console.WriteLine("Ahoj svete verze 2");
             Console.ReadKey();
         }
     }
